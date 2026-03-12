@@ -18,7 +18,7 @@
 Tambahkan library ini ke project Anda menggunakan perintah berikut:
 
 ```bash
-go get [github.com/garpitdreams/c2agent](https://github.com/garpitdreams/c2agent)
+go get https://github.com/garpitdreams/c2agent
 ```
 
 ## Example use
